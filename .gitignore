@@ -1,0 +1,24 @@
+# OS generated files
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+*.DS_Store
+
+# R files
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+EndoPredictory.Rproj
+.Rproj.user
+
+# source data files
+Source_Data/
+README.rmd
+DataCleaning.R
+*.csv.gz
+
+# server files:
+.bash-history.log
